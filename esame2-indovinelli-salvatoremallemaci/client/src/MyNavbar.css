@@ -1,0 +1,25 @@
+.white {
+	color: white;
+}
+
+.user-icon {
+	font-size: 34.5px;
+	padding-left: 1rem;
+}
+
+.dice-icon {
+	font-size: 32px;
+	padding-left: 37.8rem;
+	text-align: center;
+}
+
+.navbar-padding {
+	padding-left: 1rem;
+	padding-right: 1rem;
+	text-align: center;
+}
+
+.text {
+	font-size: 150%;
+	text-align: center;
+}

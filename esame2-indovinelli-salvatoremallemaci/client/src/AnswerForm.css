@@ -1,0 +1,87 @@
+.rispHead {
+    margin-top: 0.5rem;
+}
+
+.bottoneSalvaRisposta {
+    margin-top: 2rem;
+    margin-left: 31rem;
+    color: white;
+    background-color: rgb(25, 135, 84);
+}
+
+.bottoneInd {
+    margin-top: 2rem;
+    margin-left: 5rem;
+    color: white;
+    background-color: rgb(25, 135, 84);
+}
+
+.bottoneNonDisp {
+    margin-top: 5rem;
+    margin-left: 41rem;
+    color: white;
+    background-color: rgb(25, 135, 84);
+}
+
+.titoloPag {
+    padding-left: +38.5rem;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.titoloRisp {
+    padding-left: +33.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.titoloNonDisp {
+    padding-left: +28.5rem;
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+    font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.rispostaSbagliata {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 250%;
+	width: 100%;
+    text-align: center;
+}
+
+.tempoFermo {
+	color: blue;
+}
+
+.tempoScorre {
+	color: violet;
+}
+
+.tempoStaFinendo {
+	color: red;
+}
+
+.risposta {
+    color:rgb(25, 135, 84);
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.troppoTardi {
+    color:red;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.sugg {
+    color: darkorange;
+}

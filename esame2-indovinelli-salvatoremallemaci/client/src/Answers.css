@@ -1,0 +1,33 @@
+.titoloPagina {
+    padding-left: +37.5rem;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.titoloRisposta {
+    padding-left: +29rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-size: 240%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.bottoneIndietro {
+    margin-top: 3rem;
+    margin-left: 42rem;
+    color: white;
+    background-color: rgb(25, 135, 84);
+}
+
+.mioIndovinelloTitolo {
+    padding-left: +38.7rem;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}

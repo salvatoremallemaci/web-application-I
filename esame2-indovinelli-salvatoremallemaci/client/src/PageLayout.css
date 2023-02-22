@@ -1,0 +1,82 @@
+.main-content {
+    padding-top: 6rem;
+    padding-left: 1rem;
+}
+
+.titoloIndovinelliAnonimo {
+	padding-left: +34.6rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.titoloIndovinelli {
+	margin-left: +36.7rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.titoloIndovinelliInGiocoAperti {
+    padding-left: +31.5rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.titoloIndovinelliInGiocoChiusi {
+    padding-left: +31.5rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.bottone {
+	margin-left: -48rem;
+	margin-bottom: -7rem;
+    color: white;
+    background-color: rgb(25, 135, 84);
+}
+
+.rispostaCorretta {
+	color: green;
+}
+
+.nessunaRisposta {
+	color: red;
+}
+
+.nessunPartecipante {
+	color: blueviolet;
+}
+
+.visualizzaRisposte {
+	padding: 0.13rem;
+	margin-left: 2rem;
+	color: white;
+    background-color: rgb(25, 135, 84);
+	margin-block: auto;
+}
+
+.bottoneRispondi {
+	padding: 0.5rem;
+	margin-left: 2rem;
+	color: white;
+    background-color: rgb(25, 135, 84);
+}
+
+.statoChiuso {
+	color: red;
+}
+
+.statoAperto {
+	color: green;
+}

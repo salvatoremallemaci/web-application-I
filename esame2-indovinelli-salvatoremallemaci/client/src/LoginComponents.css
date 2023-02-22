@@ -1,0 +1,51 @@
+.logout-button {
+	color: white;
+	margin-left: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.username {
+	padding-left: 0.5rem;
+	font-size: 150%;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.login-email {
+	padding-left: 38rem;
+	font-size: 150%;
+	font-family: 'Times New Roman', Times, serif;
+}
+.password {
+	padding-left: 37rem;
+	font-size: 150%;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.login-form {
+	padding-top: 5rem;
+}
+
+.login-component {
+	margin-top: 1rem;
+	margin-left: 15rem;
+	background-color: rgb(25, 135, 84);
+	color: white;
+}
+
+.guest-component {
+	margin-top: 1rem;
+	margin-left: 33.5rem;
+	background-color: orange;
+	color: white;
+}
+
+.login-password {
+	margin-top: 1rem;
+}
+
+h2 {
+	padding-top: 10rem;
+	margin-left: +35.5rem;
+	margin-bottom: -1rem;
+	font-size: 300%;
+}

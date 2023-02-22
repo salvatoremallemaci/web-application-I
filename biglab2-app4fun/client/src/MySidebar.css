@@ -1,0 +1,29 @@
+#sidebar {
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+}
+
+.sidebar-container {
+    min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+    .sidebar-container {
+        min-height: 100%;
+        min-width: 100%;
+    }
+}
+
+.list-group-item {
+    background-color: transparent;
+}
+
+.active {
+    background-color: #055c9d;
+    border-color: #055c9d;
+}
+
+.list-group-item-action:hover {
+    background-color: #0e86d4;
+    color: white;
+}

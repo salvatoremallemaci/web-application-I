@@ -1,0 +1,22 @@
+.white {
+	color: white;
+}
+
+.user-icon {
+	font-size: 22px;
+	padding-left: 1rem;
+}
+
+.navbar-padding {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.library-logo {
+	padding-right: 5px;
+	font-size: 16px;
+}
+
+.text {
+	font-size: 130%;
+}

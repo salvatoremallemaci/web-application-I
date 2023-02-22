@@ -1,0 +1,64 @@
+.titolo {
+    padding-left: +31.5rem;
+    margin-top: 7rem;
+    margin-bottom: 4rem;
+    font-size: 280%;
+	width: 100%;
+    font-style: oblique;
+}
+
+.domandaHead {
+    padding-left: 18rem;
+    margin-bottom: 2rem;
+    font-size: 120%;
+}
+
+.difficoltàHead {
+    padding-left: 18rem;
+    margin-bottom: 2rem;
+    font-size: 120%;
+}
+
+.difficoltàForm {
+    padding-left: 13.2rem;
+    padding-inline-end: 12.5rem;
+    background-color: white;
+    border-color: black;
+}
+
+.difficoltàTesto {
+    padding-right: 4rem;
+}
+
+.tempoHead {
+    padding-left: 18rem;
+    margin-bottom: 2rem;
+    padding-top: 4px;
+    font-size: 120%;
+}
+
+.rispostaHead {
+    padding-left: 18rem;
+    margin-bottom: 2rem;
+    padding-top: 6px;
+    font-size: 120%;
+}
+
+.suggHead {
+    padding-left: 18rem;
+    margin-bottom: 2rem;
+    padding-top: 6px;
+    font-size: 120%;
+}
+
+.bottoneSave {
+    margin-left: 26rem;
+    color: white;
+    background-color: rgb(25, 135, 84);
+}
+
+.bottoneCancel {
+    margin-left: 37.5rem;
+    color: white;
+    background-color: rgb(25, 135, 84);
+}
